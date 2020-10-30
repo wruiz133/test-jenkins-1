@@ -1,1 +1,2 @@
-Este es un repositorio de pruebas para trabajar con Jenkins
+
+Este es un repositorio de pruebas para trabajar con Jenkins, comandos  de git 
